@@ -14,12 +14,12 @@ The fastest way to understand the LFN ecosystem and begin contributing is the **
 
 The short version:
 
-1. **Get a Linux Foundation ID.** Your LF ID is your identity across every Linux Foundation community and the LFX toolchain. Create one and set up your profile at [openprofile.dev](https://openprofile.dev/). Do this even if you only plan to browse, since it saves headaches later.
+1. **Get a Linux Foundation ID.** Your LF ID is your identity across every Linux Foundation community and the LFX toolchain. Create one and set up your profile in LFX at [app.lfx.dev](https://app.lfx.dev). Do this even if you only plan to browse, since it saves headaches later.
 2. **Join the community on Zulip.** LFN and its projects use [Zulip](https://linuxfoundation.zulipchat.com) for real time discussion. Each project has its own channel (see the table below).
 3. **Drop into a community meeting.** Browse the calendar, find registration links, and access recordings via the [LFN meetings calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/lfn?view=week).
 4. **Read the [Upstream First Best Practices Guide](https://lf-networking.atlassian.net/wiki/spaces/LN/pages/15673024/Upstream+First+Best+Practices+Guide)** before you start contributing code.
 
-Joining on behalf of a company? Also work through the [Organization Onboarding Guide](https://lf-networking.atlassian.net/wiki/spaces/LN/pages/1010139142/Organization+Onboarding+Guide), which covers membership, the MyOrg Dashboard, and governance participation.
+Joining on behalf of a company? Also work through the [Organization Onboarding Guide](https://lf-networking.atlassian.net/wiki/spaces/LN/pages/1010139142/Organization+Onboarding+Guide), which covers membership, managing your organization in LFX, and governance participation.
 
 ## Project communities
 
@@ -54,9 +54,9 @@ This org hosts umbrella level resources for LFN. Most project code lives in each
 
 [LFX](https://docs.linuxfoundation.org/lfx) is the Linux Foundation suite that supports open source participation:
 
-- [Individual Dashboard](https://docs.linuxfoundation.org/lfx/my-profile) is your self service hub for identity, contributions, and meeting registrations.
+- [app.lfx.dev](https://app.lfx.dev) is your self service hub for identity, contributions, meeting registrations, and open votes ([docs](https://docs.linuxfoundation.org/lfx/my-profile)).
 - [LFX Insights](https://insights.linuxfoundation.org/collection/details/lfn) provides open analytics into project health and contributor activity across LFN.
-- [MyOrg Dashboard](https://docs.linuxfoundation.org/lfx/organization-dashboard) lets member organizations track engagement, contacts, agreements, and benefits.
+- [Your organization in LFX](https://app.lfx.dev) lets member organizations track engagement, contacts, agreements, and benefits ([docs](https://docs.linuxfoundation.org/lfx/organization-dashboard)).
 
 ## Getting help
 
